@@ -2,9 +2,9 @@
 
 ## to start
 
-git clone (to clone) or
+git clone (to clone files from your repository) or
 
-git init (to initiate a .git folder)
+git init (to initiate a .git folder on your workstation folder[your own PC])
 
 ### To see status folder
 
